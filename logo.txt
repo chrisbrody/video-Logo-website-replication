@@ -1,0 +1,27 @@
+LOGO 1.1 - Intro to video for the Logo website replication
+LOGO 1.2 - Why Replications?
+LOGO 1.3 - Setting up the workspace
+LOGO 1.4 - Finding the code to write
+LOGO 1.5 - Double checking the replication code
+ATOM 1.5 - Outro to video for the Logo website replication
+
+
+
+LOGO 1.1 - Intro to video for the Logo website replication
+Chris from Codify Academy here.
+In this video I'm going to introduce you to my favorite coding method, replication,
+
+
+
+LOGO 1.2 - Why Replications?
+While I was learning recreating what others had done helped me to understand over time how to structure my HTML and CSS so it was easy to change in the future.
+
+I've learned so much over the years by reading others code and recreating it for myself, it helps you truly understand what's happening in the code. I strongly recommend you don't stop trying to use this method of learning when you're coding
+
+
+LOGO 1.3 - Setting up the workspace
+lets get our workspace set up
+
+LOGO 1.4 - Finding the code to write
+LOGO 1.5 - Double checking the replication code
+ATOM 1.5 - Outro to video for the Logo website replication
